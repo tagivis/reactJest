@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`el componente se muestra 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <div>
+      <img
+        alt="face"
+        src="https://source.unsplash.com/random/250x250/?face"
+      />
+      <h2>
+        Alex
+      </h2>
+      <h3>
+        25
+      </h3>
+    </div>
+    <button
+      className="suma"
+      onClick={[Function]}
+    >
+      Add one
+    </button>
+    <button
+      className="resta"
+      onClick={[Function]}
+    >
+      Minus one
+    </button>
+    <p>
+      La cuenta es 
+      0
+    </p>
+  </header>
+</div>
+`;
